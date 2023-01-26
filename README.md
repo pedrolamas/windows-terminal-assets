@@ -1,13 +1,18 @@
 # Microsoft Windows Terminal Assets
 
-[![Project Maintenance](https://img.shields.io/maintenance/yes/2022.svg)](https://github.com/pedrolamas/windows-terminal-assets 'GitHub Repository')
+[![Project Maintenance](https://img.shields.io/maintenance/yes/2023.svg)](https://github.com/pedrolamas/windows-terminal-assets 'GitHub Repository')
 [![License](https://img.shields.io/github/license/pedrolamas/windows-terminal-assets.svg)](https://github.com/pedrolamas/windows-terminal-assets/blob/master/LICENSE 'License')
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pedrolamas?style=social)](https://twitter.com/pedrolamas '@pedrolamas')
+[![Follow pedrolamas on Twitter](https://img.shields.io/twitter/follow/pedrolamas?label=Follow%20@pedrolamas%20on%20Twitter&style=social)](https://twitter.com/pedrolamas)
+[![Follow pedrolamas on Mastodon](https://img.shields.io/mastodon/follow/109365776481898704?label=Follow%20@pedrolamas%20on%20Mastodon&domain=https%3A%2F%2Fhachyderm.io&style=social)](https://hachyderm.io/@pedrolamas)
 
 A collection of icons and backgrounds to use on Microsoft Windows Terminal
 
 ## Icons
+
+### Windows Subsystem for Linux
+
+![Windows Subsystem for Linux](/icons/wsl.png)
 
 ### Ubuntu
 

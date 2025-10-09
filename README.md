@@ -22,6 +22,14 @@ A collection of icons and backgrounds to use on Microsoft Windows Terminal
 
 ![Debian](/icons/debian.png)
 
+### Docker
+
+![Docker](/icons/docker.png)
+
+### Proxmox
+
+![Proxmox](/icons/proxmox.png)
+
 ### Node.js
 
 ![Node.js](/icons/node-js.png)
@@ -71,6 +79,14 @@ A collection of icons and backgrounds to use on Microsoft Windows Terminal
 ### Debian
 
 ![Debian](/backgrounds/debian.png)
+
+### Docker
+
+![Docker](/backgrounds/docker.png)
+
+### Proxmox
+
+![Proxmox](/backgrounds/proxmox.png)
 
 ### Node.js
 

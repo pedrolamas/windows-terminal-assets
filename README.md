@@ -1,6 +1,6 @@
 # Microsoft Windows Terminal Assets
 
-[![Project Maintenance](https://img.shields.io/maintenance/yes/2023.svg)](https://github.com/pedrolamas/windows-terminal-assets 'GitHub Repository')
+[![Project Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/pedrolamas/windows-terminal-assets 'GitHub Repository')
 [![License](https://img.shields.io/github/license/pedrolamas/windows-terminal-assets.svg)](https://github.com/pedrolamas/windows-terminal-assets/blob/master/LICENSE 'License')
 
 [![Follow pedrolamas on Twitter](https://img.shields.io/twitter/follow/pedrolamas?label=Follow%20@pedrolamas%20on%20Twitter&style=social)](https://twitter.com/pedrolamas)
